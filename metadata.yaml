@@ -1,0 +1,51 @@
+_repo: The-early-English-cotton-industry_70140
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Unwin, George
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '55622'
+    url: http://www.gutenberg.org/2009/agents/55622
+  contributor:
+    agent_name: Crompton, Samuel
+    birthdate: 1753
+    deathdate: 1827
+    gutenberg_agent_id: '55596'
+    url: http://www.gutenberg.org/2009/agents/55596
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Crompton
+creator:
+  author:
+    agent_name: Daniels, George W. (George William)
+    aliases:
+    - Daniels, G. W. (George William)
+    - Daniels, George William
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '55621'
+    url: http://www.gutenberg.org/2009/agents/55621
+    wikipedia: https://en.wikipedia.org/wiki/George_William_Daniels
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70140'
+  lccn: '20014211'
+language: en
+pgterms:marc904: https://archive.org/details/earlyenglishcott00dani
+pgterms:marc905: 20191215054427daniels
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: deaurider, PrimeNumber and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bLongmans Green & Co, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cotton machinery'
+- !lcsh 'Cotton trade -- Great Britain'
+- !lcc 'HD'
+- GITenberg
+title: The early English cotton industry
+url: http://www.gutenberg.org/ebooks/70140
